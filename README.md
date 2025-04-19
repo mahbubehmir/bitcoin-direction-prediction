@@ -110,8 +110,13 @@ Support Vector Machines
 ✨ نویسنده
 نام: Mahboubeh
 
-تخصص: هوش مصنوعی و یادگیری ماشین
+- 📧 ایمیل: [niayeshmirshekar92@gmail.com](mailto:niayeshmirshekar92@gmail.com)
+- 💼 لینکدین: [Mahboubeh Mirshekar](https://www.linkedin.com/in/mahbubeh-mirshekar-999640170)
+- اینستاگرام: airobo.project
+  کانال تلگرام:airobo_project
 
-راه ارتباطی: niayeshmirshekar92@gmail.com
+---
 
-
+<p align="center">
+  🌟 اگر به همکاری روی پروژه‌های هوش مصنوعی علاقه‌مند هستی، خوشحال می‌شم در ارتباط باشیم!
+</p>
